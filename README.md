@@ -15,4 +15,19 @@ https://sputnik.by/incidents/20190514/1041143467/Iz-za-sboya-v-MTBanke-u-belorus
 ## 2019-05-04 МТбанк начал переход на новыю АБС. За два месяца работу так и не наладили
 
 ## 2014-06 Начальник управления маркетинга MTBank Екатерина Вареникова в LinkedIn в дискусси о новой карте "Халва" назвала клиентов банка "склерозниками"
+https://forum.onliner.by/viewtopic.php?t=4243586&p=63416069#p63418465
 ![screenshot](/images/varennikova.jpeg)
+
+## 2014-04 МТБанк принял Решение №22, по которому может в одностороннем порядке для некоторых клиентов пересчитывать проценты в меньшую сторону
+https://infobank.by/infolineview/kak-najti-sebya-v-chernom-spiske-vkladchikov/
+https://infobank.by/infolinebigview/chernye-spiski-mtbanka-sxemshhiki-protiv-bankirov/
+
+## 2013-09 Списания задолженностей со счетов родственников
+Из-за очередных сбоев процессинга МТБанка на счетах некоторых клиентов рисовались очень большие остатки. Они их снимали, образовывался технический овердрафт. По условиям того времени, проценты на технический овердрафт начинали начисляться только спустя 14 дней после образования задолженности. Т.к. был конец квартала, то в МТБ началась паника из-за больших несходящихся остатков. Клиентам, у которых был такой теховер, начались звонки с угрозами, звонки на работу, блокировки счетов родственников
+https://forum.onliner.by/viewtopic.php?t=4243586&start=6260
+
+## 2011-08-10 Утечка данных клиентов, подавших электронные заявления на сайте МТБанка
+https://news.tut.by/economics/245339.html
+https://www.belta.by/society/view/utechka-dannyh-mtbanka-proizoshla-iz-za-chelovecheskogo-faktora-upravlenie-k-117124-2011
+https://www.kv.by/content/utechka-dannykh-iz-mtbanka-kommentarii-eksperta
+https://habr.com/ru/post/126056/
