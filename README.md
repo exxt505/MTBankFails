@@ -11,6 +11,10 @@ https://tech.onliner.by/2019/07/09/bank-10
 
 https://naviny.by/new/20190710/1562741417-mtbank-vremenno-priostanovil-rabotu-internet-i-mobilnogo-banka
 
+https://dev.by/news/mtb-qulix
+
+https://dev.by/news/po-otpechatku-palca-v-chuzhuyu-khalvu
+
 
 ## 2019-05-13 МТбанк повторно списывает деньги у клиентов других банков за покупки годичной давности
 https://finance.tut.by/news637334.html
